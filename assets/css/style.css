@@ -5,11 +5,11 @@
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
 }
-body{
+/* body{
     max-width: 1280px;
     display: block;
     margin: auto;
-}
+} */
 main{
     display: flex;
     justify-content: space-between;
@@ -209,7 +209,7 @@ main{
 
 .right{
     width: calc(100% - 25%);
-    margin-left: 316px;
+    margin-left: auto;
 }
 .letters {
     font-size: 2rem;
